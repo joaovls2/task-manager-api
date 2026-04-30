@@ -5,14 +5,18 @@ controle de acesso por usuário e validações de regras de negócio.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## 🛠️ Tecnologias
 
 - Java 21  
 - Spring Boot  
 - Spring Data JPA  
 - H2 Database  
-- BCrypt (hash de senha)  
+
+## 🔧 Ferramentas
+
+- Postman  
 - Maven  
+- Git  
 
 ---
 
