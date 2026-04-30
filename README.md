@@ -82,15 +82,7 @@ As senhas são armazenadas de forma segura utilizando BCrypt.
 
 ## 🧪 Banco de dados
 
-O projeto utiliza banco em memória H2.
-
-Acesse:  
-http://localhost:8080/h2-console  
-
-Configuração:  
-JDBC URL: jdbc:h2:mem:todolist  
-User: admin  
-Password: admin  
+- H2 Database (em memória), utilizado para persistência de dados durante o desenvolvimento e testes 
 
 ---
 
