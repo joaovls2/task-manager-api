@@ -20,6 +20,16 @@ controle de acesso por usuário e validações de regras de negócio.
 
 ---
 
+## 🌐 Deploy
+
+A aplicação está disponível em ambiente de produção:
+
+🔗 https://task-manager-api-ugzf.onrender.com
+
+> Obs: Pode haver um pequeno delay na primeira requisição devido ao cold start do Render.
+
+---
+
 ## 🔐 Funcionalidades
 
 - Cadastro de usuários com senha criptografada  
